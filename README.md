@@ -1,5 +1,5 @@
 # async-task-queue
-A JavaScript async task queue.
+`experimental` A JavaScript async task queue.
 
 ```javascript
 function createTask(delay = 1000) {  
