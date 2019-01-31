@@ -22,4 +22,4 @@ asyncQueue.push('send email', createTask(2000));
 asyncQueue.push('clean up', createTask(1600));
 ```
 
-Live example: https://codepen.io/anon/pen/wNJKwN?editors=0010
+Live example: https://bit.ly/2D0J5Hj
