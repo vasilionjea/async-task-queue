@@ -1,7 +1,6 @@
 # async-task-queue
 A JavaScript async task queue.
 
-## Example 
 ```javascript
 function createTask(delay = 1000) {  
   return function task() {
